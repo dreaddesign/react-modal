@@ -1,0 +1,17 @@
+{
+  "name": "react-modal",
+  "version": "1.0.0",
+  "description": "Modal react component",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "modal",
+    "js",
+    "react",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
